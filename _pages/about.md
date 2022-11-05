@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-BIO
-======
 Wanyun Cui is an associate professor in the school of information management and engineering, Shanghai University of Finance and Economics. He received the PhD degree from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests are at the intersection of knowledge and language. He has published several first author papers in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL and EMNLP. He was recognized as **The AI 2000 Most Influential Scholars (2012-2022)**. He won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China), and ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
 
 ***News***
@@ -50,3 +48,11 @@ knowledge bases, (Grant No. 2019110610), Single PI, 260k.
 robustness for question answering over knowledge bases, Single PI, 200k.
 1. Alipay Targeted Cooperation Program for Universities, Transfer learning-based multi-objective recommendation for finance scenarios, Single PI, 500k.
 
+AWARDS
+======
+1. 2022 The AI 2000 Most Influential Scholar Annual List by AMiner, rank 31 in the database field.
+2. 2017 ACM China Outstanding Doctoral Dissertation Nomination Award, top 4 in China
+3. 2017 ACM Shanghai Outstanding Doctoral Dissertation Award, top 2 in Shanghai
+4. 2017 Fudan Academic Star
+5. 2013 Fudan Outstanding Undergraduate Award, top 10 for Fudan undergraduates.
+6. 2011, 2009 ACM/ICPC Beijing/Shanghai Region Invitation Contest double gold medals
