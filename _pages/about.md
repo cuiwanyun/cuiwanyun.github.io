@@ -17,15 +17,15 @@ Wanyun Cui is an associate professor in the school of information management and
 
 PUBLICATIONS
 ======
-1. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**)
-1. **Wanyun Cui**, Xingran Chen, Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense (**ACL Findings 2022, CCF A**)
-1. **Wanyun Cui**, Xingran Chen, Open Rule Induction, (**NeurIPS 2021, CCF A**)
-3. **Wanyun Cui**, Sen Yan, Isotonic Data Augmentation for Knowledge Distillation, (**IJCAI 2021, CCF A**)
+1. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [code](https://github.com/chenxran/InstanceBasedLearning)
+1. **Wanyun Cui**, Xingran Chen, Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense (**ACL Findings 2022, CCF A**) [code](https://github.com/chenxran/ok-transformer)
+1. **Wanyun Cui**, Xingran Chen, Open Rule Induction, (**NeurIPS 2021, CCF A**) [code](https://github.com/chenxran/Orion)
+3. **Wanyun Cui**, Sen Yan, Isotonic Data Augmentation for Knowledge Distillation, (**IJCAI 2021, CCF A**) [code](https://github.com/SenYan1999/IsotonicDataAugmentation)
 4. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Zero-shot domain adaptation for natural language inference by projecting superficial words out, (**Knowledge-Based Systems 2021, JCR Q1**)
 5. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive
-Learning, (**EMNLP 2020, CCF B**, ***oral***)
+Learning, (**EMNLP 2020, CCF B**, ***oral***) [code](https://github.com/GuangyuZheng/MACD)
 6. **Wanyun Cui**, Guangyu Zheng, Zhiqiang Shen, Sihang Jiang, Wei Wang, Transfer Learning for Sequences via Learning to
-Collocate, (**ICLR 2019**)
+Collocate, (**ICLR 2019**) [code](https://github.com/GuangyuZheng/art-transfer)
 7. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Yangqiu Song, Seung-won Hwang, Wei Wang, KBQA: Learning Question Answering
 over QA Corpora and Knowledge Bases, (**PVLDB 2017, CCF A**)
 8. **Wanyun Cui**, Yanghua Xiao, Wei Wang, KBQA: An Online Template Based Question Answering System over Freebase,
