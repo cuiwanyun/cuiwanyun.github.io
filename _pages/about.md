@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "-"
+excerpt: "Wanyun Cui"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Wanyun Cui is an associate professor in the school of information management and engineering, Shanghai University of Finance and Economics. He received the PhD degree from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests are at the intersection of knowledge and language. He has published several first author papers in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL and EMNLP. He was recognized as The AI 2000 Most Influential Scholars (2012-2022). He won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China), and ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
 
 A data-driven personal website
 ======
