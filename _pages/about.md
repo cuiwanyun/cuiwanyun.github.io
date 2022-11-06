@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "BIO"
-excerpt: "Wanyun Cui"
+excerpt: "🧑"
 author_profile: true
 redirect_from: 
   - /about/
