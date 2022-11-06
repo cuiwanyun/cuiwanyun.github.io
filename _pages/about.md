@@ -17,7 +17,7 @@ Wanyun Cui is an associate professor in the school of information management and
 1. One paper accepted to NeurIPS 2022.
 2. I was selected in the AI 2000 Most Influential Scholar Annual List (2012-20221) by AMiner, rank 31 in the database field.
 
-PUBLICATIONS
+📝 PUBLICATIONS
 ======
 1. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [code](https://github.com/chenxran/InstanceBasedLearning)
 1. **Wanyun Cui**, Xingran Chen, Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense (**ACL Findings 2022, CCF A**) [paper](https://aclanthology.org/2022.findings-acl.138/) [code](https://github.com/chenxran/ok-transformer)
@@ -44,7 +44,7 @@ Chinese Knowledge Extraction System, IEA/AIE 2017.
 for Query Answering on Trees, (**ICDE 2012, CCF A**)
 
 
-GRANTS
+💰 GRANTS
 ======
 1. National Natural Science Funds of China, Robustness of question answering over
 knowledge bases, (Grant No. 2019110610), Single PI, 260k.
@@ -52,7 +52,7 @@ knowledge bases, (Grant No. 2019110610), Single PI, 260k.
 robustness for question answering over knowledge bases, Single PI, 200k.
 1. Alipay Targeted Cooperation Program for Universities, Transfer learning-based multi-objective recommendation for finance scenarios, Single PI, 500k.
 
-AWARDS
+🏆 AWARDS
 ======
 1. 2022 The AI 2000 Most Influential Scholar Annual List by AMiner, rank 31 in the database field.
 2. 2017 ACM China Outstanding Doctoral Dissertation Nomination Award, top 4 in China
