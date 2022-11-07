@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🧑"
+title: "BIO"
 excerpt: "Wanyun Cui"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Wanyun Cui is an associate professor in the school of information management and engineering, Shanghai University of Finance and Economics. He received the PhD degree from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests are at the intersection of knowledge and language. He has published several first author papers in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL and EMNLP. He was recognized as **The AI 2000 Most Influential Scholars (2012-2022)**. He won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China), and ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
 
-🔴 I am recruiting **highly self-motivated and hardworking** students. If you enjoy doing challenging research and want to devote your career to research, please do not hesitate to contact me.
+🔴 I am recruiting **highly self-motivated and hardworking** students. 🔴 If you enjoy doing challenging research and want to devote your career to research, please do not hesitate to contact me.
 
 🔥 ***News*** 🔥
 ------
