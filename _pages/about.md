@@ -15,7 +15,7 @@ Wanyun Cui is an associate professor in the school of information management and
 🔥 ***News*** 🔥
 ------
 1. One paper accepted to NeurIPS 2022.
-2. I was recognized as the AI 2000 Most Influential Scholar Annual List (2012-20221) by AMiner, rank 31 in the database field.
+2. I was recognized as the AI 2000 Most Influential Scholars (2012-20221) by AMiner, rank 31 in the database field.
 
 📝 PUBLICATIONS
 ======
