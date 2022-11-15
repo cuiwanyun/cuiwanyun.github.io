@@ -19,7 +19,7 @@ Wanyun Cui is an associate professor in the school of information management and
 
 📝 PUBLICATIONS
 ======
-1. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [code](https://github.com/chenxran/InstanceBasedLearning)
+1. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [paper](https://arxiv.org/pdf/2211.06807.pdf) [code](https://github.com/chenxran/InstanceBasedLearning)
 1. **Wanyun Cui**, Xingran Chen, Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense (**ACL Findings 2022, CCF A**) [paper](https://aclanthology.org/2022.findings-acl.138/) [code](https://github.com/chenxran/ok-transformer)
 1. **Wanyun Cui**, Xingran Chen, Open Rule Induction, (**NeurIPS 2021, CCF A**) [paper](https://proceedings.neurips.cc/paper/2021/hash/efe34c4e2190e97d1adc625902822b13-Abstract.html) [code](https://github.com/chenxran/Orion)
 3. **Wanyun Cui**, Sen Yan, Isotonic Data Augmentation for Knowledge Distillation, (**IJCAI 2021, CCF A**) [paper](https://arxiv.org/abs/2107.01412) [code](https://github.com/SenYan1999/IsotonicDataAugmentation)
