@@ -60,3 +60,11 @@ robustness for question answering over knowledge bases, Single PI, 200k.
 4. 2017 Fudan Academic Star
 5. 2013 Fudan Outstanding Undergraduate Award, top 10 for Fudan undergraduates.
 6. 2011, 2009 ACM/ICPC Beijing/Shanghai Region Invitation Contest double gold medals
+
+🎓 ALUMNI
+======
+ - Xingran Chen, University of Michigan, master
+ - Sen Yan, University of Colorado Boulder, PhD
+ - Guangyu Zheng, Alipay
+ - Le Wang, Alipay
+ - Lingyu Cai, Alibaba
