@@ -65,6 +65,6 @@ robustness for question answering over knowledge bases, Single PI, 200k.
 ======
  - Xingran Chen, University of Michigan, master
  - Sen Yan, University of Colorado Boulder, PhD
- - Guangyu Zheng, Alipay
- - Le Wang, Alipay
+ - Guangyu Zheng, Ant Group
+ - Le Wang, Ant Group
  - Lingyu Cai, Alibaba
