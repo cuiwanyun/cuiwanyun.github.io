@@ -14,10 +14,11 @@ Wanyun Cui is an associate professor at the School of Information Management and
 
 🔥 ***News*** 🔥
 ------
-1. One paper accepted to ACL 2023.
-2. One paper accepted to ACL Findings 2023.
-3. One paper accepted to NeurIPS 2022.
-4. I was recognized as the AI 2000 Most Influential Scholars (2012-20221) by AMiner, rank 31 in the database field.
+1. Are you interested in training your own large model chatbot? Come and check out the dataset collection we have gathered: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
+2. One paper accepted to ACL 2023.
+3. One paper accepted to ACL Findings 2023.
+4. One paper accepted to NeurIPS 2022.
+5. I was recognized as the AI 2000 Most Influential Scholars (2012-20221) by AMiner, rank 31 in the database field.
 
 📝 PUBLICATIONS
 ======
@@ -29,15 +30,15 @@ Wanyun Cui is an associate professor at the School of Information Management and
 6. **Wanyun Cui**, Sen Yan, Isotonic Data Augmentation for Knowledge Distillation, (**IJCAI 2021, CCF A**) [paper](https://arxiv.org/abs/2107.01412) [code](https://github.com/SenYan1999/IsotonicDataAugmentation)
 7. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Zero-shot domain adaptation for natural language inference by projecting superficial words out, (**Knowledge-Based Systems 2021, JCR Q1**)
 8. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive
-  Learning, (**EMNLP 2020, CCF B**, ***oral***) [paper](https://aclanthology.org/2020.emnlp-main.444/) [code](https://github.com/GuangyuZheng/MACD)
+    Learning, (**EMNLP 2020, CCF B**, ***oral***) [paper](https://aclanthology.org/2020.emnlp-main.444/) [code](https://github.com/GuangyuZheng/MACD)
 9. **Wanyun Cui**, Guangyu Zheng, Zhiqiang Shen, Sihang Jiang, Wei Wang, Transfer Learning for Sequences via Learning to
-  Collocate, (**ICLR 2019**) [paper](https://arxiv.org/abs/1902.09092) [code](https://github.com/GuangyuZheng/art-transfer)
+    Collocate, (**ICLR 2019**) [paper](https://arxiv.org/abs/1902.09092) [code](https://github.com/GuangyuZheng/art-transfer)
 10. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Yangqiu Song, Seung-won Hwang, Wei Wang, KBQA: Learning Question Answering
-  over QA Corpora and Knowledge Bases, (**PVLDB 2017, CCF A**)
+    over QA Corpora and Knowledge Bases, (**PVLDB 2017, CCF A**)
 11. **Wanyun Cui**, Yanghua Xiao, Wei Wang, KBQA: An Online Template Based Question Answering System over Freebase,
-   (**IJCAI 2016, CCF A**), demo
+      (**IJCAI 2016, CCF A**), demo
 12. **Wanyun Cui**, Xiyou Zhou, Hangyu Lin, Yanghua Xiao, Haixun Wang, Seung-won Hwang, Wei Wang, Verb Pattern: A Probabilistic
-   Semantic Representation on Verbs, (**AAAI 2016, CCF A**)
+      Semantic Representation on Verbs, (**AAAI 2016, CCF A**)
 13. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Wei Wang, Local Search of Communities in Large Graphs, (**SIGMOD 2014, CCF A**)
 14. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Yiqi Lu, and Wei Wang. Online Search of Overlapping Communities, (**SIGMOD 2013, CCF A**)
 15. **Wanyun Cui**, Yanghua Xiao, Chapter 14: Question Answering over Knowledge Graphs, Knowledge Graph: Concepts and
