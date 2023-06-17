@@ -14,7 +14,7 @@ Wanyun Cui is an associate professor at the School of Information Management and
 
 🔥 ***News*** 🔥
 ------
-1. Are you interested in training your own large model chatbot? Come and check out the dataset collection we have gathered: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
+1. Are you interested in training your own large model chatbot? Check out the dataset collection we have gathered: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
 2. One paper accepted to ACL 2023.
 3. One paper accepted to ACL Findings 2023.
 4. One paper accepted to NeurIPS 2022.
