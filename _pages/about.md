@@ -22,9 +22,15 @@ Wanyun Cui is an associate professor at the School of Information Management and
 
 📝 PUBLICATIONS
 ======
+Preprint
+
+1. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
+------
+Published
+
 1. **Wanyun Cui**, Xingran Chen, Free Lunch for Efficient Textual Commonsense Integration in Language Models, (**ACL 2023, CCF A**)
 2. **Wanyun Cui**, Xingran Chen, Exploring Automatically Perturbed Natural Language Explanations in Relation Extraction, (**ACL Findings 2023, CCF A**)
-3. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [paper](https://arxiv.org/pdf/2211.06807.pdf) [code](https://github.com/chenxran/InstanceBasedLearning)
+3. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [paper](https://arxiv.org/pdf/2211.06807.pdf) [code](https://github.com/chenxran/InstanceBasedLearning) [中文版](https://mp.weixin.qq.com/s/YpfLsRN_6dqhOCfnK4gQtA)
 4. **Wanyun Cui**, Xingran Chen, Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense (**ACL Findings 2022, CCF A**) [paper](https://aclanthology.org/2022.findings-acl.138/) [code](https://github.com/chenxran/ok-transformer)
 5. **Wanyun Cui**, Xingran Chen, Open Rule Induction, (**NeurIPS 2021, CCF A**) [paper](https://proceedings.neurips.cc/paper/2021/hash/efe34c4e2190e97d1adc625902822b13-Abstract.html) [code](https://github.com/chenxran/Orion) [slides](https://neurips.cc/media/neurips-2021/Slides/27468_rotF5wV.pdf)
 6. **Wanyun Cui**, Sen Yan, Isotonic Data Augmentation for Knowledge Distillation, (**IJCAI 2021, CCF A**) [paper](https://arxiv.org/abs/2107.01412) [code](https://github.com/SenYan1999/IsotonicDataAugmentation)
