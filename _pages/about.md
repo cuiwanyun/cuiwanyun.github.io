@@ -22,9 +22,11 @@ Wanyun Cui is an associate professor at the School of Information Management and
 
 📝 PUBLICATIONS
 ======
+------
 Preprint
 
 1. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
+
 ------
 Published
 
