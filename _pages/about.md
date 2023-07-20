@@ -14,11 +14,12 @@ Wanyun Cui is an associate professor at the School of Information Management and
 
 🔥 ***News*** 🔥
 ------
-1. Are you interested in training your own large model chatbot? Check out the dataset collection we have gathered: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
-2. One paper accepted to ACL 2023.
-3. One paper accepted to ACL Findings 2023.
-4. One paper accepted to NeurIPS 2022.
-5. I was recognized as the AI 2000 Most Influential Scholars (2012-20221) by AMiner, rank 31 in the database field.
+1. 2023/07. We released the large language model FinChat, which outperforms ChatGPT (3.5) on C-Eval. Congrats to our research team! [FinChat intro](https://mp.weixin.qq.com/s/v6ZSiBu07kJ4_n58kfGqiQ)
+2. 2023/06. Are you interested in training your own large model chatbot? Check out the dataset collection we have gathered: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
+3. One paper accepted to ACL 2023.
+4. One paper accepted to ACL Findings 2023.
+5. One paper accepted to NeurIPS 2022.
+6. I was recognized as the AI 2000 Most Influential Scholars (2012-20221) by AMiner, rank 31 in the database field.
 
 📝 PUBLICATIONS
 ======
