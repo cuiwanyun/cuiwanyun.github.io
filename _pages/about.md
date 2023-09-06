@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wanyun Cui is an associate professor at the School of Information Management and Engineering, Shanghai University of Finance and Economics. He received his PhD from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests lie at the intersection of language and knowledge. Now he is particularly interested in large language models (LLMs). He has published several papers as first author in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL, and EMNLP. He has been recognized as an **AI 2000 Most Influential Scholar (2012-2022)** and has won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China) and the ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
+Wanyun Cui is an associate professor at the School of Information Management and Engineering, Shanghai University of Finance and Economics. He received his PhD from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests lie at the intersection of language and knowledge. Now he is particularly interested in large language models (LLMs). He has published several papers as first author in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL, and EMNLP. He has been recognized as an **AI 2000 Most Influential Scholar Honorable Mention (2012-2021, 2013-2022)** and has won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China) and the ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
 
 🔴 I am recruiting **highly self-motivated and hardworking** students. 🔴 If you enjoy doing challenging research and want to devote your career to research, please do not hesitate to contact me.
 
@@ -19,7 +19,7 @@ Wanyun Cui is an associate professor at the School of Information Management and
 3. One paper accepted to ACL 2023.
 4. One paper accepted to ACL Findings 2023.
 5. One paper accepted to NeurIPS 2022.
-6. I was recognized as the AI 2000 Most Influential Scholars (2012-20221) by AMiner, rank 31 in the database field.
+6. I was recognized as the AI 2000 Most Influential Scholars Honorable Mention (2012-20221) by AMiner, rank 31 in the database field.
 
 📝 PUBLICATIONS
 ======
