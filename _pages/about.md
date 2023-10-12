@@ -26,7 +26,7 @@ Wanyun Cui is an associate professor at the School of Information Management and
 ------
 Preprint
 
-1. **Wanyun Cui**, QIanle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, [paper](https://arxiv.org/pdf/2310.04484.pdf)
+1. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, [paper](https://arxiv.org/pdf/2310.04484.pdf)
 2. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
 
 ------
