@@ -33,31 +33,32 @@ Preprint
 ------
 Published
 
-1. **Wanyun Cui**, Xingran Chen, Free Lunch for Efficient Textual Commonsense Integration in Language Models, (**ACL 2023, CCF A**)
-2. **Wanyun Cui**, Xingran Chen, Exploring Automatically Perturbed Natural Language Explanations in Relation Extraction, (**ACL Findings 2023, CCF A**)
-3. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [paper](https://arxiv.org/pdf/2211.06807.pdf) [code](https://github.com/chenxran/InstanceBasedLearning) [中文版](https://mp.weixin.qq.com/s/YpfLsRN_6dqhOCfnK4gQtA)
-4. **Wanyun Cui**, Xingran Chen, Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense (**ACL Findings 2022, CCF A**) [paper](https://aclanthology.org/2022.findings-acl.138/) [code](https://github.com/chenxran/ok-transformer)
-5. **Wanyun Cui**, Xingran Chen, Open Rule Induction, (**NeurIPS 2021, CCF A**) [paper](https://proceedings.neurips.cc/paper/2021/hash/efe34c4e2190e97d1adc625902822b13-Abstract.html) [code](https://github.com/chenxran/Orion) [slides](https://neurips.cc/media/neurips-2021/Slides/27468_rotF5wV.pdf)
-6. **Wanyun Cui**, Sen Yan, Isotonic Data Augmentation for Knowledge Distillation, (**IJCAI 2021, CCF A**) [paper](https://arxiv.org/abs/2107.01412) [code](https://github.com/SenYan1999/IsotonicDataAugmentation)
-7. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Zero-shot domain adaptation for natural language inference by projecting superficial words out, (**Knowledge-Based Systems 2021, JCR Q1**)
-8. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive
+1. **Wanyun Cui**, Linqiu Zhang, Modeling Knowledge Graphs with Composite Reasoning, (**AAAI 2024, CCF A**)
+2. **Wanyun Cui**, Xingran Chen, Free Lunch for Efficient Textual Commonsense Integration in Language Models, (**ACL 2023, CCF A**)
+3. **Wanyun Cui**, Xingran Chen, Exploring Automatically Perturbed Natural Language Explanations in Relation Extraction, (**ACL Findings 2023, CCF A**)
+4. **Wanyun Cui**, Xingran Chen, Instance-based Learning for Knowledge Base Completion, (**NeurIPS 2022, CCF A**) [paper](https://arxiv.org/pdf/2211.06807.pdf) [code](https://github.com/chenxran/InstanceBasedLearning) [中文版](https://mp.weixin.qq.com/s/YpfLsRN_6dqhOCfnK4gQtA)
+5. **Wanyun Cui**, Xingran Chen, Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense (**ACL Findings 2022, CCF A**) [paper](https://aclanthology.org/2022.findings-acl.138/) [code](https://github.com/chenxran/ok-transformer)
+6. **Wanyun Cui**, Xingran Chen, Open Rule Induction, (**NeurIPS 2021, CCF A**) [paper](https://proceedings.neurips.cc/paper/2021/hash/efe34c4e2190e97d1adc625902822b13-Abstract.html) [code](https://github.com/chenxran/Orion) [slides](https://neurips.cc/media/neurips-2021/Slides/27468_rotF5wV.pdf)
+7. **Wanyun Cui**, Sen Yan, Isotonic Data Augmentation for Knowledge Distillation, (**IJCAI 2021, CCF A**) [paper](https://arxiv.org/abs/2107.01412) [code](https://github.com/SenYan1999/IsotonicDataAugmentation)
+8. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Zero-shot domain adaptation for natural language inference by projecting superficial words out, (**Knowledge-Based Systems 2021, JCR Q1**)
+9. **Wanyun Cui**, Guangyu Zheng, Wei Wang, Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive
     Learning, (**EMNLP 2020, CCF B**, ***oral***) [paper](https://aclanthology.org/2020.emnlp-main.444/) [code](https://github.com/GuangyuZheng/MACD)
-9. **Wanyun Cui**, Guangyu Zheng, Zhiqiang Shen, Sihang Jiang, Wei Wang, Transfer Learning for Sequences via Learning to
+10. **Wanyun Cui**, Guangyu Zheng, Zhiqiang Shen, Sihang Jiang, Wei Wang, Transfer Learning for Sequences via Learning to
     Collocate, (**ICLR 2019**) [paper](https://arxiv.org/abs/1902.09092) [code](https://github.com/GuangyuZheng/art-transfer)
-10. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Yangqiu Song, Seung-won Hwang, Wei Wang, KBQA: Learning Question Answering
-    over QA Corpora and Knowledge Bases, (**PVLDB 2017, CCF A**)
-11. **Wanyun Cui**, Yanghua Xiao, Wei Wang, KBQA: An Online Template Based Question Answering System over Freebase,
-      (**IJCAI 2016, CCF A**), demo
-12. **Wanyun Cui**, Xiyou Zhou, Hangyu Lin, Yanghua Xiao, Haixun Wang, Seung-won Hwang, Wei Wang, Verb Pattern: A Probabilistic
-      Semantic Representation on Verbs, (**AAAI 2016, CCF A**)
-13. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Wei Wang, Local Search of Communities in Large Graphs, (**SIGMOD 2014, CCF A**)
-14. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Yiqi Lu, and Wei Wang. Online Search of Overlapping Communities, (**SIGMOD 2013, CCF A**)
-15. **Wanyun Cui**, Yanghua Xiao, Chapter 14: Question Answering over Knowledge Graphs, Knowledge Graph: Concepts and
-    Techniques (book chapter).
-16. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, **Wanyun Cui** and Yanghua Xiao, CN-DBpedia: A Never-Ending
-    Chinese Knowledge Extraction System, IEA/AIE 2017.
-17. Yanghua xiao, Ji Hong, **Wanyun Cui**, Zhenying He, Wei Wang, Guodong Feng, Branch Code: An Efficient Labeling Scheme
-    for Query Answering on Trees, (**ICDE 2012, CCF A**)
+11. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Yangqiu Song, Seung-won Hwang, Wei Wang, KBQA: Learning Question Answering
+     over QA Corpora and Knowledge Bases, (**PVLDB 2017, CCF A**)
+12. **Wanyun Cui**, Yanghua Xiao, Wei Wang, KBQA: An Online Template Based Question Answering System over Freebase,
+       (**IJCAI 2016, CCF A**), demo
+13. **Wanyun Cui**, Xiyou Zhou, Hangyu Lin, Yanghua Xiao, Haixun Wang, Seung-won Hwang, Wei Wang, Verb Pattern: A Probabilistic
+       Semantic Representation on Verbs, (**AAAI 2016, CCF A**)
+14. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Wei Wang, Local Search of Communities in Large Graphs, (**SIGMOD 2014, CCF A**)
+15. **Wanyun Cui**, Yanghua Xiao, Haixun Wang, Yiqi Lu, and Wei Wang. Online Search of Overlapping Communities, (**SIGMOD 2013, CCF A**)
+16. **Wanyun Cui**, Yanghua Xiao, Chapter 14: Question Answering over Knowledge Graphs, Knowledge Graph: Concepts and
+     Techniques (book chapter).
+17. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, **Wanyun Cui** and Yanghua Xiao, CN-DBpedia: A Never-Ending
+     Chinese Knowledge Extraction System, IEA/AIE 2017.
+18. Yanghua xiao, Ji Hong, **Wanyun Cui**, Zhenying He, Wei Wang, Guodong Feng, Branch Code: An Efficient Labeling Scheme
+     for Query Answering on Trees, (**ICDE 2012, CCF A**)
 
 
 💰 GRANTS
