@@ -14,7 +14,7 @@ Wanyun Cui is an associate professor at the School of Information Management and
 
 🔥 ***News*** 🔥
 ------
-1. 2024/03. We release the <Technology and Security White Paper on the Application of Large Language model in Finance> with Ant Groupt and BCTC. [white paper](https://cuiwanyun.github.io/大模型在金融领域的应用技术与安全白皮书V2.pdf)
+1. 2024/03. We release the <Technology and Security White Paper on the Application of Large Language model in Finance> with Ant Groupt and BCTC. [pdf](https://cuiwanyun.github.io/大模型在金融领域的应用技术与安全白皮书V2.pdf)
 2. 2023/12. One paper accepted to AAAI 2024.
 3. 2023/07. We released the large language model FinChat, which outperforms ChatGPT (3.5) on C-Eval. Congrats to our research team! [FinChat intro](https://mp.weixin.qq.com/s/v6ZSiBu07kJ4_n58kfGqiQ)
 4. 2023/06. Are you interested in training your own large model chatbot? Check out the dataset collection we have gathered: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
