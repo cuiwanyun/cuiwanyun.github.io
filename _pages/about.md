@@ -10,11 +10,11 @@ redirect_from:
 
 Wanyun Cui is an associate professor at the School of Information Management and Engineering, Shanghai University of Finance and Economics. He received his PhD from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests lie at the intersection of language and knowledge. Now he is particularly interested in large language models (LLMs). He has published several papers as first author in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL, and EMNLP. He has been recognized as an **AI 2000 Most Influential Scholar Honorable Mention (2012-2021, 2013-2022)** and has won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China) and the ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
 
-🔴 I am recruiting **highly self-motivated and hardworking** students. 🔴 If you enjoy doing challenging research and want to devote your career to research, please do not hesitate to contact me.
+🔴 I am recruiting **highly self-motivated and hardworking** students. 🔴 If you enjoy doing challenging research or enjoy working on LLM-related projects, please do not hesitate to contact me.
 
 🔥 ***News*** 🔥
 ------
-1. 2024/03. We release the **Technology and Security White Paper on the Application of Large Language model in Finance** with Ant Group and BCTC. [pdf](https://cuiwanyun.github.io/whitebook.pdf)
+1. 2024/03. We release the _Technology and Security White Paper on the Application of Large Language model in Finance_ with Ant Group and BCTC. [pdf](https://cuiwanyun.github.io/whitebook.pdf)
 2. 2023/12. One paper accepted to AAAI 2024.
 3. 2023/07. We released the large language model FinChat, which outperforms ChatGPT (3.5) on C-Eval. Congrats to our research team! [FinChat intro](https://mp.weixin.qq.com/s/v6ZSiBu07kJ4_n58kfGqiQ)
 4. 2023/06. Are you interested in training your own large model chatbot? Check out the dataset collection we have gathered: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
@@ -28,8 +28,9 @@ Wanyun Cui is an associate professor at the School of Information Management and
 ------
 Preprint
 
-1. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, [paper](https://arxiv.org/pdf/2310.04484.pdf)
-2. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
+1. **Wanyun Cui**, Qianle Wang, Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models, _"our 3-bit quantized Vicuna-1.5 exhibits competitive performance compared to their 16-bit counterpart"_ [paper](https://arxiv.org/pdf/2404.02837.pdf) [code](https://github.com/wangitu/CherryQ)
+2. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, [paper](https://arxiv.org/pdf/2310.04484.pdf)
+3. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
 
 ------
 Published
