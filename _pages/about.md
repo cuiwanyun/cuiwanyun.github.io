@@ -28,7 +28,7 @@ Wanyun Cui is an associate professor at the School of Information Management and
 ------
 Preprint
 
-1. **Wanyun Cui**, Qianle Wang, Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models, _"our 3-bit quantized Vicuna-1.5 exhibits competitive performance compared to their 16-bit counterpart"_ [paper](https://arxiv.org/pdf/2404.02837.pdf) [code](https://github.com/wangitu/CherryQ)
+1. **Wanyun Cui**, Qianle Wang, Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models, [paper](https://arxiv.org/pdf/2404.02837.pdf) 
 2. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, [paper](https://arxiv.org/pdf/2310.04484.pdf)
 3. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
 
