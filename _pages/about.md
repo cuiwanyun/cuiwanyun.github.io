@@ -36,7 +36,7 @@ Preprint
 Published
 
 1. **Wanyun Cui**, Qianle Wang, Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models, (**NeurIPS 2024, CCF A**)
-2. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, (**EMNLP Findings 2024, CCF A**)
+2. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, (**EMNLP Findings 2024, CCF B**)
 3. **Wanyun Cui**, Linqiu Zhang, Modeling Knowledge Graphs with Composite Reasoning, (**AAAI 2024, CCF A**)
 4. **Wanyun Cui**, Xingran Chen, Free Lunch for Efficient Textual Commonsense Integration in Language Models, (**ACL 2023, CCF A**)
 5. **Wanyun Cui**, Xingran Chen, Exploring Automatically Perturbed Natural Language Explanations in Relation Extraction, (**ACL Findings 2023, CCF A**)
