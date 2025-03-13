@@ -8,12 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Wanyun Cui is an associate professor at the School of Information Management and Engineering, Shanghai University of Finance and Economics. He received his PhD from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests lie at the intersection of language and knowledge. Now he is particularly interested in large language models (LLMs). He has published several papers as first author in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL, and EMNLP. He has been recognized as an **AI 2000 Most Influential Scholar Honorable Mention (2012-2021, 2013-2022)** and has won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China) and the ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
+Wanyun Cui is an associate professor at the School of Information Management and Engineering, Shanghai University of Finance and Economics. He received his PhD from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests lie at the intersection of language and knowledge. Now he is particularly interested in large language models (LLMs). He has published 20+ papers in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL, and EMNLP. He has been recognized as an **AI 2000 Most Influential Scholar Honorable Mention (2012-2021, 2013-2022)** and has won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China) and the ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
 
-🔴 I am recruiting **highly self-motivated and hardworking** students. 🔴 If you enjoy doing challenging research or enjoy working on LLM-related projects, please do not hesitate to contact me.
+**Current Research Projects**
+
+ - **LLM-based Complex Reasoning** Inspired by Deepseek-R1, we explore reinforcement learning and other approaches to enhance LLMs' reasoning capabilities.
+
+ - **Efficient LLM Inference** We optimize the efficiency of LLM inference, including long-context LLM and parameter quantization.
+
+ - **LLMs for Domain Applications (e.g. Finance and Education)** We develop specialized LLM applications based on FinChat, such as automated financial analysis, research report generation, retrieval-augmented QA, and expert role-playing.
+
+🔴 **For students interested in my research**: I am recruiting students who are passionate about artificial (general) intelligence and possess strong programming skills (experience with open-source projects is a plus). 
+
+**What we offer:**
+
+- **Learning**: Customized LLM training plans tailored to your development. And GPU resources
+- **Research**: Opportunities to explore cutting-edge LLM problems and publish in top AI conferences
+- **Practice**: Hands-on experience with real LLM applications and potential internships from leading tech companies (Alibaba, Ant Group, ByteDance, etc.)
+
+🔴 If you are interested, please do not hesitate to contact me.
+
+
 
 🔥 ***News*** 🔥
-------
+
 1. 2024/09. One paper on large language model quantization accepted to NeurIPS 2024.
 2. 2024/09. One paper on instruction generation by large language models accepted to EMNLP 2024 Findings.
 3. 2024/03. We release the _Technology and Security White Paper on the Application of Large Language model in Finance_ with Ant Group and BCTC. [pdf](https://cuiwanyun.github.io/whitebook.pdf)
@@ -30,7 +48,7 @@ Wanyun Cui is an associate professor at the School of Information Management and
 ------
 Preprint
 
-3. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
+1. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
 
 ------
 Published
