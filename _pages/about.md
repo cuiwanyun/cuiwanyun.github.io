@@ -102,6 +102,8 @@ robustness for question answering over knowledge bases, Single PI, 200k.
 
 🎓 ALUMNI
 ======
+ - Qianle Wang, ByteDance
+ - Junhao Zhao, Huawei
  - Xingran Chen, University of Michigan, master
  - Sen Yan, University of Colorado Boulder, PhD
  - Guangyu Zheng, Ant Group
