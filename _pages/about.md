@@ -102,7 +102,7 @@ robustness for question answering over knowledge bases, Single PI, 200k.
 
 🎓 ALUMNI
 ======
- - Qianle Wang, ByteDance
+ - [Qianle Wang, ByteDance](https://mp.weixin.qq.com/s/whu-c0bX1nNIOLobdQ-7dw)
  - Junhao Zhao, Huawei
  - Xingran Chen, University of Michigan, master
  - Sen Yan, University of Colorado Boulder, PhD
