@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wanyun Cui is an associate professor at the School of Information Management and Engineering, Shanghai University of Finance and Economics. He received his PhD from Fudan University in 2017, advised by Wei Wang and Yanghua Xiao. His research interests lie at the intersection of language and knowledge. Now he is particularly interested in large language models (LLMs). He has published 20+ papers in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL, and EMNLP. He has been recognized as an **AI 2000 Most Influential Scholar Honorable Mention (2012-2021, 2013-2022)** and has won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China) and the ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
+Wanyun Cui is an associate professor at the School of Information Management and Engineering, Shanghai University of Finance and Economics. His research interests lie at the intersection of language and knowledge. Now he is particularly interested in large language models (LLMs). He has published 20+ papers in NeurIPS, ICLR, SIGMOD, PVLDB, IJCAI, AAAI, ACL, and EMNLP. He has been recognized as an **AI 2000 Most Influential Scholar Honorable Mention (2012-2021, 2013-2022)** and has won the ACM China Outstanding Doctoral Dissertation Nomination Award (top 4 in China) and the ACM Shanghai Outstanding Doctoral Dissertation Award (top 2 in Shanghai).
 
 **Current Research Projects**
 
@@ -32,6 +32,7 @@ Wanyun Cui is an associate professor at the School of Information Management and
 
 🔥 ***News*** 🔥
 
+1. 2025/09. One paper on large language model long-context inference accepted to NeurIPS 2025.
 1. 2024/09. One paper on large language model quantization accepted to NeurIPS 2024.
 2. 2024/09. One paper on instruction generation by large language models accepted to EMNLP 2024 Findings.
 3. 2024/03. We release the _Technology and Security White Paper on the Application of Large Language model in Finance_ with Ant Group and BCTC. [pdf](https://cuiwanyun.github.io/whitebook.pdf)
@@ -53,6 +54,7 @@ Preprint
 ------
 Published
 
+1. **Wanyun Cui**, Mingwei Xu, Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs, (**NeurIPS 2025, CCF A**)
 1. **Wanyun Cui**, Qianle Wang, Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models, (**NeurIPS 2024, CCF A**)
 2. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, (**EMNLP Findings 2024, CCF B**)
 3. **Wanyun Cui**, Linqiu Zhang, Modeling Knowledge Graphs with Composite Reasoning, (**AAAI 2024, CCF A**)
