@@ -47,17 +47,12 @@ Wanyun Cui is an associate professor at the School of Computing and Artificial I
 
 📝 PUBLICATIONS
 ======
-------
-Preprint
 
-1. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
-
-------
 Published
 
 1. **Wanyun Cui**, Mingwei Xu, Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs, (**NeurIPS 2025, CCF A**)
-2. **Wanyun Cui**, Qianle Wang, Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models, (**NeurIPS 2024, CCF A**)
-3. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, (**EMNLP Findings 2024, CCF B**)
+2. **Wanyun Cui**, Qianle Wang, Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models, (**NeurIPS 2024, CCF A**) [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/6fcc2190f456464160921e98393bf50e-Paper-Conference.pdf) [code]([wangitu/CherryQ](https://github.com/wangitu/CherryQ))
+3. **Wanyun Cui**, Qianle Wang, Ada-Instruct: Adapting Instruction Generators for Complex Reasoning, (**EMNLP Findings 2024, CCF B**) [paper](https://aclanthology.org/2024.findings-emnlp.409.pdf) [code]([wangitu/Ada-Instruct](https://github.com/wangitu/Ada-Instruct))
 4. **Wanyun Cui**, Linqiu Zhang, Modeling Knowledge Graphs with Composite Reasoning, (**AAAI 2024, CCF A**)
 5. **Wanyun Cui**, Xingran Chen, Free Lunch for Efficient Textual Commonsense Integration in Language Models, (**ACL 2023, CCF A**)
 6. **Wanyun Cui**, Xingran Chen, Exploring Automatically Perturbed Natural Language Explanations in Relation Extraction, (**ACL Findings 2023, CCF A**)
@@ -84,6 +79,16 @@ Published
       Chinese Knowledge Extraction System, IEA/AIE 2017.
 20. Yanghua xiao, Ji Hong, **Wanyun Cui**, Zhenying He, Wei Wang, Guodong Feng, Branch Code: An Efficient Labeling Scheme
       for Query Answering on Trees, (**ICDE 2012, CCF A**)
+
+------
+
+Preprint
+
+1. Shuyang Cai, **Wanyun Cui**, Evade ChatGPT Detectors via A Single Space, [paper](https://arxiv.org/pdf/2307.02599.pdf)
+
+------
+
+
 
 🎓 ALUMNI
 ======
